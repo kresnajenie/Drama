@@ -1,4 +1,4 @@
-#ini versi sfx belom lengkap
+#ini versi sfx belom lengkap tapi sudah hampir
 import pygame
 #import paho.mqtt.publish as publish
 
